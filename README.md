@@ -36,7 +36,7 @@ npm install
 
 ## Usage
 
-1. Start server `nodemon start` in `packages/scripts`
+1. Start server `npm start` in `packages/scripts`
 
 
 ## Features
