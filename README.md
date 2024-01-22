@@ -1,12 +1,12 @@
-# marketplace-backend
+# ShopPeak-backend
 
-A Backend marketplace for selling used stuff with React and React Native.
+ShopPeak Backend is a marketplace designed for selling used items, developed using Nodejs & Expressjs.
 
 - Branches are in the order they were coded.
 
 ## Packages
 
-This project is made up of 3 packages that share code using npm Workspaces.
+This project is made up of 5 packages that share code using npm Workspaces.
 
 - web (Nodejs)
 - app (nodejs)
@@ -19,13 +19,13 @@ This project is made up of 3 packages that share code using npm Workspaces.
 1. Clone project
 
 ```
-git clone https://github.com/lahlimy/marketplace-backend.git
+git clone https://github.com/lahlimy/ShopPeak-BACKEND.git
 ```
 
 2. cd into folder
 
 ```
-cd marketplace-backend
+cd ShopPeak-BACKEND
 ```
 
 3. Download dependencies
@@ -41,7 +41,7 @@ npm install
 
 ## Features
 
-1. Website register/login
+1. App register/login
 2. Deploy backend and frontend
 3. web and App register/login
 4. web and App forgot password
